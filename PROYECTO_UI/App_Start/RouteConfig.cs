@@ -5,7 +5,7 @@ using System.Web;
 using System.Web.Mvc;
 using System.Web.Routing;
 
-namespace PROYECTO_GCAMACHO
+namespace PROYECTO_UI
 {
     public class RouteConfig
     {

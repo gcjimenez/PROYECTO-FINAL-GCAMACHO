@@ -9,12 +9,12 @@
     <ProductVersion>
     </ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{D262EB9E-E16B-42A7-9497-9C612D3A695C}</ProjectGuid>
+    <ProjectGuid>{41F45571-1F5D-4D5B-9E69-46B8E75A34B0}</ProjectGuid>
     <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>PROYECTO_GCAMACHO</RootNamespace>
-    <AssemblyName>PROYECTO_GCAMACHO</AssemblyName>
+    <RootNamespace>PROYECTO_UI</RootNamespace>
+    <AssemblyName>PROYECTO_UI</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <MvcBuildViews>false</MvcBuildViews>
     <UseIISExpress>true</UseIISExpress>
@@ -220,9 +220,9 @@
         <WebProjectProperties>
           <UseIIS>True</UseIIS>
           <AutoAssignPort>True</AutoAssignPort>
-          <DevelopmentServerPort>51501</DevelopmentServerPort>
+          <DevelopmentServerPort>51526</DevelopmentServerPort>
           <DevelopmentServerVPath>/</DevelopmentServerVPath>
-          <IISUrl>http://localhost:51501/</IISUrl>
+          <IISUrl>http://localhost:51526/</IISUrl>
           <NTLMAuthentication>False</NTLMAuthentication>
           <UseCustomServer>False</UseCustomServer>
           <CustomServerUrl>

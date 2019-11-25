@@ -1,7 +1,7 @@
 ﻿using System.Web;
 using System.Web.Mvc;
 
-namespace PROYECTO_GCAMACHO
+namespace PROYECTO_UI
 {
     public class FilterConfig
     {

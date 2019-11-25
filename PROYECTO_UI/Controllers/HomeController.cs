@@ -4,7 +4,7 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 
-namespace PROYECTO_GCAMACHO.Controllers
+namespace PROYECTO_UI.Controllers
 {
     public class HomeController : Controller
     {

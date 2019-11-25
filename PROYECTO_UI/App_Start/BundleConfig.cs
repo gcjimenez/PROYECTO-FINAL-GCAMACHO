@@ -1,7 +1,7 @@
 ﻿using System.Web;
 using System.Web.Optimization;
 
-namespace PROYECTO_GCAMACHO
+namespace PROYECTO_UI
 {
     public class BundleConfig
     {
