@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace PROYECTO_DAL
 {
-    public class Class1
+    class CLS_PERSONA
     {
     }
 }
