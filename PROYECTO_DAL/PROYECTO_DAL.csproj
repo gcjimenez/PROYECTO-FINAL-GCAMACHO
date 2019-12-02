@@ -52,6 +52,7 @@
   <ItemGroup>
     <Compile Include="CLS_ASIENTOS.cs" />
     <Compile Include="CLS_COMPRA.cs" />
+    <Compile Include="CLS_DBC_CINE.cs" />
     <Compile Include="CLS_PELICULA.cs" />
     <Compile Include="CLS_PERSONA.cs" />
     <Compile Include="CLS_SALA.cs" />

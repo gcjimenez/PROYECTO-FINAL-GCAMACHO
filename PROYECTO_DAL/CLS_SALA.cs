@@ -8,5 +8,9 @@ namespace PROYECTO_DAL
 {
     class CLS_SALA
     {
+        public int Id_Sala { get; set; }
+        public int Numero_Sala { get; set; }
+        public int Capacidad_Sala { get; set; }
+
     }
 }
